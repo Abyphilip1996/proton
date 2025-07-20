@@ -1,6 +1,6 @@
 # Prerequisites
 #####
-- JDK 21 
+- JDK thayoli 
 - Maven 3.9 
 - MySQL 8
 
